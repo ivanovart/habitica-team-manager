@@ -1,0 +1,3 @@
+configs = {
+    'table': 'habitica'
+}

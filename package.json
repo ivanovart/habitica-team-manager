@@ -1,0 +1,8 @@
+{
+  "name": "habitica-bot",
+  "description": "",
+  "author": "ivart",
+  "dependencies": {
+    "serverless-python-requirements": "^2.5.0"
+  }
+}
